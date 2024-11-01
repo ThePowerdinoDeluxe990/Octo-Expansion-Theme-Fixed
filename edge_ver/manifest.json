@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "version": "1.1",
-  "name": "Octo Expansion Theme",
+  "name": "Octo Expansion Theme for Edge",
   "description": "Octo Expansion Theme ",
   "icons": {
     "128":"icon.jpg"
@@ -9,7 +9,6 @@
   "theme": {
     "images" : {
       "theme_frame_overlay": "octoExpansion_Patternsmall.png",
-      "theme_tab_background": "background.png",
       "theme_frame" : "octoExpansion_Patternsmall.png",
       "theme_toolbar": "octoExpansion_Patternsmall.png",
       "theme_ntp_background": "wallpaper.jpg"
