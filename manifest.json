@@ -8,7 +8,6 @@
   },
   "theme": {
     "images" : {
-      "theme_frame_overlay": "octoExpansion_Patternsmall.png",
       "theme_tab_background": "background.png",
       "theme_frame" : "octoExpansion_Patternsmall.png",
       "theme_toolbar": "octoExpansion_Patternsmall.png",
