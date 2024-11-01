@@ -18,7 +18,7 @@
     "colors" : {
       "frame" : [31,31,31],
       "frame_inactive": [31,31,31],
-      "toolbar" : [6,6,6],
+      "toolbar" : [20,20,20],
       "bookmark_text": [255, 135, 215],
       "ntp_text" : [255,135,215],
       "ntp_link" : [36, 70, 0],
@@ -33,7 +33,9 @@
       "background_tab": [0.5, 0.5, 0.5]
     },
     "properties" : {
-      "ntp_background_alignment" : "bottom"
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
     }
   }
 }
