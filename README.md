@@ -1,1 +1,1 @@
-Made with firefox color
+Avaliable for chromium browsers and firefox
