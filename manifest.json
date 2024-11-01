@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "1.0",
+  "version": "1.1",
   "name": "Octo Expansion Theme",
   "description": "Octo Expansion Theme ",
   "icons": {
@@ -8,8 +8,12 @@
   },
   "theme": {
     "images" : {
+      "theme_frame_overlay": "octoExpansion_Patternsmall.png",
+      //"theme_tab_background": "octoExpansion_Patternsmall.png",
       "theme_frame" : "octoExpansion_Patternsmall.png",
-      "theme_frame_inactive":"octoExpansion_Patternsmall.png"
+      "theme_frame_inactive":"octoExpansion_Patternsmall.png",
+      "theme_toolbar": "octoExpansion_Patternsmall.png",
+      "theme_ntp_background": "wallpaper.jpg"
     },
     "colors" : {
       "frame" : [31,31,31],
@@ -19,13 +23,14 @@
       "ntp_text" : [255,135,215],
       "ntp_link" : [36, 70, 0],
       "tab_background_text":[102,255,186],
-      "tab_text": [255,79,202],
+      "tab_text": [255,135,215],
       "ntp_section" : [207, 221, 192],
       "omnibox_background": [ 43, 40, 43 ],
       "omnibox_text": [ 102,255,186 ]
     },
     "tints" : {
-      "buttons": [0.89,1,0.76]
+      "buttons": [0.89,1,0.76],
+      "background_tab": [0.5, 0.5, 0.5]
     },
     "properties" : {
       "ntp_background_alignment" : "bottom"
