@@ -1,2 +1,2 @@
 Avaliable for chromium browsers and firefox
-firefox: https://addons.mozilla.org/firefox/downloads/file/4376121/df222664ec2b410fbaac-1.0.xpi
+firefox: https://addons.mozilla.org/es-ES/firefox/addon/octo-expansion-theme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
